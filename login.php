@@ -28,7 +28,7 @@
 }
 
 .bg-image {
-  background-image: url('https://res.cloudinary.com/mhmd/image/upload/v1555917661/art-colorful-contemporary-2047905_dxtao7.jpg');
+  background-image: url('https://res.cloudinary.com/dvwfj3tqg/image/upload/v1664298883/image_2_qrww5r.png');
   background-size: cover;
   background-position: center center;
 }
